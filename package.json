@@ -1,0 +1,30 @@
+{
+  "name": "han-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "han": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "han-smile"
+  ],
+  "author": "han-smile",
+  "license": "MIT",
+  "homepage": "https://github.com/han-smile",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/han-smile"
+  },
+  "dependencies": {
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "open": "^8.0.5"
+  }
+}
